@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Data files (if they're too large)
+*.parquet
+*.csv
+
+# System files
+.DS_Store
+Thumbs.db
